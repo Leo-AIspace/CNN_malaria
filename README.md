@@ -6,7 +6,7 @@
 
 *Feature_extraxtion images
 
-   ![feature extraxtion](./images/feature_extraxtion.jpg)
+   ![feature extraxtion](./images/feature_extraction.jpg)
    
 ### The result of model evaluation (Confusion matrix)
    ![feature extraxtion](./images/confusion_matrix.jpg)
